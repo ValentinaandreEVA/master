@@ -12,7 +12,6 @@ public class Main {
 
         System.out.println("Итоговый баланс: " + initialBalans);
 
-
         if (addend > 1000) {
             bonus = addend / 100;
 
